@@ -1,0 +1,46 @@
+.table {
+    width: 100%;
+}
+.theme-dark .fiat-crypto-table table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    margin: 0;
+}
+.text-center {
+    text-align: center!important;
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color:white;
+}
+.theme-dark .fiat-crypto-table tbody tr {
+    background-color: #2e3241;
+}
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    background-color: white;
+    border-color: inherit;
+}
+table {
+    border-collapse: collapse;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: rgb(134, 55, 55);
+}
+.color-green {
+    color:rgb(89, 211, 164);
+}
+.pointer {
+    color :gray;
+    font-size:22px;
+    font-family: sans-serif;
+}
