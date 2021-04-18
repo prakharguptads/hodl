@@ -1,6 +1,7 @@
 .App {
-  background-color: #1c1f29;
+  
   min-height: 100vh;
+  
 }
 
 
@@ -38,11 +39,11 @@
   border-radius: 10px;
   background-color: #3dc6c1;
   color: #fff!important;
-  width: 150px;
+  width: 180px;
   height: 40px;
 }
 .header-telegram-button {
-  font-size: 14px;
+  
   padding: 5px 10px;
 }
 .color-white, .color-white:hover {
@@ -148,6 +149,17 @@
 .App-link {
   color: #61dafb;
 }
+.b1 {
+  border: solid 1px #191d28;
+    background-color: #191d28;
+    position: fixed;
+    left: 0;
+    align-items: center;
+    width: 100vw;
+    height: 47px;
+    bottom: 0;
+    z-index: 8;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -157,7 +169,14 @@
     transform: rotate(360deg);
   }
 }
+.f1 {
+  margin-top:5px;
+  margin-left:5px;
+}
 .header-button, .header-telegram-button {
   font-size: 14px;
   padding: 5px 10px;
+}
+.telegram-logo {
+  margin-top:-5px;
 }
